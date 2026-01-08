@@ -1,11 +1,11 @@
 {
   "manifest_version": 2,
-  "name": "todoist-autosave",
-  "version": "1.1.0",
-  "description": "Save current URL as a task to Todoist with a keyboard shortcut or toolbar button",
+  "name": "Todoist Quick Save",
+  "version": "1.0.0",
+  "description": "Save current URL as a task to a predefined Todoist project with a keyboard shortcut or toolbar button",
   "browser_specific_settings": {
     "gecko": {
-      "id": "todoist-autosave@yourdomain.com",
+      "id": "todoist-quicksave@yourdomain.com",
       "data_collection_permissions": {
         "required": [
           "none"
